@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 client.py
 data/
+projects/

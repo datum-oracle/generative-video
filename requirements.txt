@@ -1,2 +1,5 @@
+google-cloud-aiplatform
+google-cloud-texttospeech
 google-generativeai
+pillow
 pydantic-settings
