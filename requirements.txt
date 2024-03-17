@@ -5,3 +5,5 @@ moviepy
 pillow
 pydantic-settings
 pydub
+streamlit
+streamlit-tags
