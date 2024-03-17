@@ -1,4 +1,4 @@
-from generative_video import llm
+from generative_video import generative_ai
 from generative_video.models import PromptResponseModel
 
 IDEATION_PROMPT = """
@@ -23,7 +23,7 @@ class Ideation:
     ) -> "Ideation":
         self.initial_idea = initial_idea
         self.target_audience_persona = target_audience_persona
-        self.model = llm.google_gemini()
+        self.model = generative_ai.google_gemini()
 
     def prepare_prompt(self) -> str:
         return IDEATION_PROMPT.format(

@@ -1,5 +1,7 @@
 google-cloud-aiplatform
 google-cloud-texttospeech
 google-generativeai
+moviepy
 pillow
 pydantic-settings
+pydub
