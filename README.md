@@ -1,3 +1,8 @@
+Note
+---
+This is an experimental project. Output can be unreliable. This is a fun project. If you have any feedback, open an issue.
+
+
 Generative Video
 ---
 
